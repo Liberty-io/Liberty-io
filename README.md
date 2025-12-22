@@ -1,4 +1,4 @@
-# 🗽 LIBERTY IO | Architecture for Data Sovereignty
+# 🗽 LIBERTY IO | Building SECURE On-Premise AI Infrastructure, Democratizinng Data Sovereignty
 
 > **We build the infrastructure for the Private AI era.**  
 > LIBERTY IO specializes in on-premise, enterprise-grade AI ecosystems that ensure 100% data sovereignty for the world’s most sensitive sectors.
