@@ -45,9 +45,9 @@ Flynt Studio is our comprehensive environment for developing, testing, and deplo
 ## 🤝 Partner with LIBERTY IO
 Are you ready to move your AI strategy from the public cloud to a sovereign foundation?
 
-*   **Official Website:** [liberty-io.com](https://liberty-io.com) *(Ensure your domain is linked)*
-*   **Explore the Devkit:** [Flynt Studio Repository](github.com)
-*   **Contact:** [solutions@liberty-io.com](mailto:solutions@liberty-io.com)
+*   **Official Website:** [liberty-io.com](https://libertyio.ai) 
+*   **Explore the Devkit:** [Flynt Studio Repository](github.com/liberty-io/flynt-studio)
+*   **Contact:** [solutions@liberty-io.com](mailto:solutions@libertyio.ai)
 
 ---
 *Securing the future of Intelligence. Optimized by @FLYNT-STUDIO.*
