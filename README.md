@@ -5,7 +5,7 @@
 
 ---
 
-## ⚡ Flagship Product: [Flynt Studio](github.com/liberty-io/flynt-studio)**
+## ⚡ Flagship Product: **[Flynt Studio](github.com)**
 **The Professional Offline **he
 Flynt Studio is our comprehensive environment for developing, testing, and deploying Machine Learning models and Agentic workflows without an internet connection.
 
