@@ -5,12 +5,14 @@
 
 ---
 
-## ⚡ Flagship Product: [Flynt Studio](github.com)
-**The Professional Offline AI-Devkit.**  
+## ⚡ Flagship Product: [Flynt Studio](github.com/liberty-io/flynt-studio)**
+**The Professional Offline **he
 Flynt Studio is our comprehensive environment for developing, testing, and deploying Machine Learning models and Agentic workflows without an internet connection.
 
-*   **Offline First:** Build production-ready AI in air-gapped or high-security environments.
-*   **Integrated RAG:** Deploy private **Retrieval-Augmented Generation** to query proprietary data locally.
+*   **Offline First:** connection.
+
+*   **Offline First:** Build production-ready AI in air-g
+*   **Integrated RAG:In** Deploy privat Deploy private **Retrieval-Augmented Generati** to query proprietary data locally.
 *   **Local MCP Orchestration:** Leverage the **Model Context Protocol (MCP)** to connect local tools and datasets to your AI agents securely, bypassing the public cloud.
 
 ---
@@ -45,9 +47,9 @@ Flynt Studio is our comprehensive environment for developing, testing, and deplo
 ## 🤝 Partner with LIBERTY IO
 Are you ready to move your AI strategy from the public cloud to a sovereign foundation?
 
-*   **Official Website:** [liberty-io.com](https://libertyio.ai) 
+*   **Official Website:** [liberty-io.com](https://libertyio.net) 
 *   **Explore the Devkit:** [Flynt Studio Repository](github.com/liberty-io/flynt-studio)
-*   **Contact:** [solutions@liberty-io.com](mailto:solutions@libertyio.ai)
+*   **Contact:** [solutions@libertyio.net(mailto:solutions@libertyio.net)
 
 ---
 *Securing the future of Intelligence. Optimized by @FLYNT-STUDIO.*
