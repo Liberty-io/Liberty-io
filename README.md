@@ -5,7 +5,7 @@
 
 ---
 
-## ⚡ Flagship Product: **[Flynt Studio](github.com)**
+## ⚡ Flagship Product: **[Flynt Studio](flynt-studio)**
 **The Professional Offline **he
 Flynt Studio is our comprehensive environment for developing, testing, and deploying Machine Learning models and Agentic workflows without an internet connection.
 
@@ -17,7 +17,7 @@ Flynt Studio is our comprehensive environment for developing, testing, and deplo
 
 ---
 
-## 🏗️ Our Technical Approach: "Privacy-by-Infrastructure"
+## 🏗️ Our Technical Approach: "Privacy-first-Infrastructure"
 
 ### 🏥 Healthcare: Private ML Models
 **Use Case:** Training diagnostic models on patient data.
@@ -48,7 +48,7 @@ Flynt Studio is our comprehensive environment for developing, testing, and deplo
 Are you ready to move your AI strategy from the public cloud to a sovereign foundation?
 
 *   **Official Website:** [liberty-io.com](https://libertyio.net) 
-*   **Explore the Devkit:** [Flynt Studio Repository](github.com/liberty-io/flynt-studio)
+*   **Explore the Devkit:** [Flynt Studio Repository](flynt-studio)
 *   **Contact:** [solutions@libertyio.net(mailto:solutions@libertyio.net)
 
 ---
