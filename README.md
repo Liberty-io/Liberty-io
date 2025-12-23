@@ -6,8 +6,8 @@
 ---
 
 ## ⚡ Flagship Product: **[Flynt Studio](flynt-studio)**
-**The Professional Offline **he
-Flynt Studio is our comprehensive environment for developing, testing, and deploying Machine Learning models and Agentic workflows without an internet connection.
+**The Professional Offline Meta-Agentic Ai Development Kit**
+Flynt Studio is our end-to-end environment for developing, testing, and deploying Machine Learning models and Agentic workflows without an internet connection.
 
 *   **Offline First:** connection.
 
